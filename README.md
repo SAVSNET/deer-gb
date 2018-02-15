@@ -5,13 +5,19 @@ Raster (.geoTIFF) datasets of Red deer and Roe deer index od presence in Great B
 ## Primary datasets
 
 ### Roe deer (Capreolus capreolus) distribution over Europe
-Authors: Alexander, N.S. et al., (2014). A First Attempt at Modelling Roe Deer (Capreolus capreolus) Distributions Over Europe. Open Health Data. 2(1), p.e2. DOI: http://doi.org/10.5334/ohd.ah.
-Repository location: http://dx.doi.org/10.6084/m9.figshare.1008335.
+
+Authors: Alexander, N.S. et al., (2014). A First Attempt at Modelling Roe Deer (Capreolus capreolus) Distributions Over Europe. Open Health Data. 2(1), p.e2. DOI: http://doi.org/10.5334/ohd.ah
+
+Repository location: http://dx.doi.org/10.6084/m9.figshare.1008335
+
 Link to article: https://openhealthdata.metajnl.com/articles/10.5334/ohd.ah/#
 
 ### Red deer (Cervus elaphus) distribution over Europe
-Authors: Wint, W. et al., (2014). A First Attempt at Modelling Red Deer (Cervus elaphus) Distributions Over Europe. Open Health Data. 2(1), p.e1. DOI: http://doi.org/10.5334/ohd.ag.
-Repository location: http://dx.doi.org/10.6084/m9.figshare.1008334.
+
+Authors: Wint, W. et al., (2014). A First Attempt at Modelling Red Deer (Cervus elaphus) Distributions Over Europe. Open Health Data. 2(1), p.e1. DOI: http://doi.org/10.5334/ohd.ag
+
+Repository location: http://dx.doi.org/10.6084/m9.figshare.1008334
+
 Link to article: https://openhealthdata.metajnl.com/articles/10.5334/ohd.ag/#
 
 ### License

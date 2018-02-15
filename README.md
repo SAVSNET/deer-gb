@@ -38,7 +38,11 @@ The index of presence for each of the rasters ranges from 0 to 100.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ### Acknowledgments
+
 This secondary dataset was created for the purposes of the Small Animal Veterinary Surveillance Network (SAVSNET) - share of data initiative.
+
 SAVSNET is an initiative from the British Small Animal Veterinary Association and the University of Liverpool. Both share the same passion for companion animal welfare, education and science.
+
 More information on SAVSNET activities can be found here: https://www.liverpool.ac.uk/savsnet/about/
+
 For further details on the dataset please write to: savsnet@liverpool.ac.uk
